@@ -1,4 +1,8 @@
 你好
 修改一下
 查看本地仓库与本地文件的区别，
+<<<<<<< HEAD
 1.asdasdasdasd
+=======
+asdasdasdasdasd我
+>>>>>>> Tom
